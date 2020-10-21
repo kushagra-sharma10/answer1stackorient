@@ -1,4 +1,3 @@
-
 class Word(object):
     def __init__(self, string, index):
         self.string = string
